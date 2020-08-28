@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Best food:
+- Lasagna
+- Burger
+- Mom's spaghetti
